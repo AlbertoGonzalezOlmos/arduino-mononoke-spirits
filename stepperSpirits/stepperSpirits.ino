@@ -210,12 +210,7 @@ void counter_clockwise(long st){
   }
 }
 void loop()
-{
-    //clockwise(18);//counter_clockwise(18);
-   // tickClock();
-   // counter_tickClock();
-
-   
+{ 
    // for 1 turn
    // numTurns = 
    // speedTurn = 50
