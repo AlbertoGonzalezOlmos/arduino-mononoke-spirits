@@ -66,7 +66,7 @@
 // ============================== CONFIGURATION ==============================
 
 static const byte MAX_SPIRITS = 5;      // size of the pin table / object array
-static const byte NUM_SPIRITS = 3;      // <-- servos actually wired up (1..MAX_SPIRITS)
+static const byte NUM_SPIRITS = 5;      // <-- servos actually wired up (1..MAX_SPIRITS)
 
 static const byte SERVO_PINS[MAX_SPIRITS] = { 9, 10, 11, 12, 13 };
 
